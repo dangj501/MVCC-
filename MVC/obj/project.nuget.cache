@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnRzIYS96n/DiX+wv7KnCL3jA0C5RKYaySmcG7AcKg58zw9TcL4Q8mGiairFMpBdTzCksGDE6pOlLzK1wKz2DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\14-dq2521\\Documents\\Tecnologias web\\MVC\\MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\14-dq2521\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\14-dq2521\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\14-dq2521\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
+    "C:\\Users\\14-dq2521\\.nuget\\packages\\mysqlconnector.dependencyinjection\\2.3.5\\mysqlconnector.dependencyinjection.2.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}
